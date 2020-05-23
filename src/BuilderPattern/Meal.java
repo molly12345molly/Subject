@@ -2,7 +2,7 @@ package BuilderPattern;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//创建一个meal类，带有上面定义的item对象
 public class Meal {
     private List<Item> items=new ArrayList<Item>();
 

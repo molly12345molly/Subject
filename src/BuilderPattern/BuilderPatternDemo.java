@@ -1,5 +1,5 @@
 package BuilderPattern;
-
+//使用演示创建者模式
 public class BuilderPatternDemo {
     public static void main(String[] args) {
 

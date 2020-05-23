@@ -1,5 +1,5 @@
 package BuilderPattern;
-
+//创建扩展了汉堡和饮料的实体类
 public class VegBurger extends Burger {
     @Override
     public float price() {

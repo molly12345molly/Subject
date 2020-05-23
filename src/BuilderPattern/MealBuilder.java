@@ -1,5 +1,5 @@
 package BuilderPattern;
-
+//创建一个类，实际的负责创建Meal对象
 public class MealBuilder {
     public Meal prepareVegMeal(){
         Meal meal=new Meal();

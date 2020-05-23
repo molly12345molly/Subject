@@ -1,5 +1,5 @@
 package BuilderPattern;
-
+//创建扩展了汉堡的实体类
 public class ChickenBerger extends Burger {
     @Override
     public float price() {
