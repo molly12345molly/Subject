@@ -26,7 +26,7 @@ public class OrCriteria implements Criteria {
         }
 
 
-
+//在一个过滤过的组别中添加别的组的元素
 
         return firstCriteriaItems;
     }

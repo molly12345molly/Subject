@@ -19,7 +19,7 @@ public class AndCriteria implements Criteria{
 
 
 
-
+//在一个过滤过的组别中再次过滤
 
 
     }
